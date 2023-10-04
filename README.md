@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3075dd26-cf8b-4065-aa26-e6b13f23d635/deploy-status)](https://app.netlify.com/sites/friendly-hypatia-a25ed2/deploys)
 
-This is a mock-gym website school project teaching the fundamentals of HTML 5, CSS & JS. It includes a variety of features including internal/external links, images, custom fonts, embedded maps, consistent and detailed page styling, and support for mobile, tablet, and desktop devices.
+This is a mock-Fitness website collage project teaching the fundamentals of HTML 5, CSS & JS. It includes a variety of features including internal/external links, images, custom fonts, embedded maps, consistent and detailed page styling, and support for mobile, tablet, and desktop devices.
 
 
 [Home Page Sample]
