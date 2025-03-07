@@ -1,6 +1,6 @@
 # Fitness-Website
 
-YOUTUBE VIDEO URL https://studio.youtube.com/video/HQFnF76G0YY/edit
+YOUTUBE VIDEO URL [https://studio.youtube.com/video/HQFnF76G0YY/edit](https://youtu.be/HQFnF76G0YY)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3075dd26-cf8b-4065-aa26-e6b13f23d635/deploy-status)](https://app.netlify.com/sites/friendly-hypatia-a25ed2/deploys)
 
