@@ -10,6 +10,7 @@ This is a mock-gym website school project teaching the fundamentals of HTML 5, C
 ![Screenshot (42)](https://github.com/RAHULPATEL2002/DevHeat_Beta/assets/146648471/ba63a8c4-122b-414d-95f9-fca6e802a78f)
 ![Screenshot (43)](https://github.com/RAHULPATEL2002/DevHeat_Beta/assets/146648471/a6ce21d0-7dd5-49c5-9798-6e5b10f2bf17)
 
+
 [About Us Page Sample]
 ![Screenshot (44)](https://github.com/RAHULPATEL2002/DevHeat_Beta/assets/146648471/a666733b-82ee-4d5b-8e6c-a4cc65475994)
 ![Screenshot (45)](https://github.com/RAHULPATEL2002/DevHeat_Beta/assets/146648471/8bc06083-6d4c-4949-a0a5-0db13d2ba86c)
